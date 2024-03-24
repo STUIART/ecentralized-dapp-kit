@@ -8,9 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-}
-"repository": {
-  "type": "git",
-  "url": "git+https://github.com/STUIART/ecentralized-dapp-kit.git"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STUIART/ecentralized-dapp-kit.git"
+  },
+  "dependencies": {
+    "blockchain-toolkit": "1.0.0"
+  }
 }
